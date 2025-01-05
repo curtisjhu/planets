@@ -1,4 +1,4 @@
-# Planets 
+# Planets (SFML Shader Example)
 Just a template for other projects based off my sketch:
 https://graphics.funnyscar.com/earth/
 
