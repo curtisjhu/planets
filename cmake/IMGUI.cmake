@@ -1,0 +1,5 @@
+CPMAddPackage(
+	NAME IMGUI
+	GITHUB_REPOSITORY ocornut/imgui
+	GIT_TAG v1.91.6
+)
